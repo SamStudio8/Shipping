@@ -1,0 +1,330 @@
+Ship Simulation Log (Sam Nicholls)
+Input File Path: /dcs/dap/NAVIGATION/data/fixed/fixed_6.txt
+Simulation Duration: 120.000000
+Simulation Timestep: 2.000000
+--------------------------------------
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:00:00 2011
+++++++++
+[ IN ] Manx01 entered designated area: (51.727681, -5.828057)
+[ IN ] Manx02 entered designated area: (51.739319, -5.971947)
+[ IN ] Manx03 entered designated area: (52.324989, -5.636759)
+[ IN ] Manx04 entered designated area: (52.658989, -5.486788)
+[ IN ] Manx05 entered designated area: (51.988340, -5.680514)
+[ IN ] French01 entered designated area: (52.050011, -4.996266)
+[ IN ] French02 entered designated area: (52.246751, -5.982644)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:02:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:04:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:06:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:08:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:10:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:12:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:14:00 2011
+++++++++
+[OUT ] Manx02 left designated area: (51.664555, -6.006543)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:16:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:18:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:20:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:22:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:24:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:26:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:28:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:30:00 2011
+++++++++
+[RISK] Manx03 and French02 are at risk of collision: (-5.698362, 52.193508)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:32:00 2011
+++++++++
+[RISK] Manx03 and French02 are at risk of collision: (-5.698360, 52.193508)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:34:00 2011
+++++++++
+[RISK] Manx03 and French02 are at risk of collision: (-5.698360, 52.193508)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:36:00 2011
+++++++++
+[RISK] Manx03 and French02 are at risk of collision: (-5.698361, 52.193508)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:38:00 2011
+++++++++
+[RISK] Manx03 and French02 are at risk of collision: (-5.698359, 52.193508)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:40:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:42:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:44:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:46:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:48:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:50:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:52:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:54:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:56:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 11:58:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:00:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:02:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:04:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:06:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:08:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:10:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:12:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:14:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:16:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:18:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:20:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:22:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:24:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:26:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:28:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:30:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:32:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:34:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:36:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:38:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:40:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:42:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:44:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:46:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:48:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:50:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:52:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:54:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:56:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sun Dec 18 12:58:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+SHIP SUMMARY
+[OKAY] Manx01 	(52.36 -5.53)	Speed: 20.00	Course: 16.00
+[OUT ] Manx02 	 Other Information Unavailable.
+[OKAY] Manx03 	(51.85 -5.86)	Speed: 15.00	Course: 196.00
+[OKAY] Manx04 	(52.19 -5.71)	Speed: 15.00	Course: 196.00
+[OKAY] Manx05 	(52.30 -5.53)	Speed: 10.00	Course: 16.00
+[OKAY] French01 	(52.52 -4.77)	Speed: 15.00	Course: 16.00
+[OKAY] French02 	(52.06 -4.96)	Speed: 20.00	Course: 107.00
+[OUT ] Manx06 	 Other Information Unavailable.
+[OUT ] French03 	 Other Information Unavailable.
+[OUT ] French04 	 Other Information Unavailable.

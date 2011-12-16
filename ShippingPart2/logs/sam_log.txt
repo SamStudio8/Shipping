@@ -1,0 +1,55 @@
+Ship Simulation Log (Sam Nicholls)
+Input File Path: /aber/msn/CS237/Shipping/data/sam.txt
+Simulation Duration: 120.000000
+Simulation Timestep: 24.000000
+--------------------------------------
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:04:00 2011
+++++++++
+Totoro updated; Course: 275.000000, Speed: 10.000000
+Wizzy updated; Course: 65.000000, Speed: 10.000000
+Sam updated; Course: 155.000000, Speed: 10.000000
+Meridian updated; Course: 0.000000, Speed: 10.000000
+Crasher updated; Course: 90.000000, Speed: 10.000000
+[RISK] Meridian and Crasher are at risk of collision: (-5.000000, 51.766670)
+[ IN ] Totoro entered designated area: (52.413810, -4.225868)
+[ IN ] Wizzy entered designated area: (51.832175, -6.580288)
+[ IN ] Sam entered designated area: (52.775579, -5.701361)
+[ IN ] Meridian entered designated area: (51.816667, -5.000000)
+[ IN ] Crasher entered designated area: (51.766670, -4.919220)
+[TIME] Simulation advanced by 24.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:28:00 2011
+++++++++
+[TIME] Simulation advanced by 6.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:34:00 2011
+++++++++
+Totoro updated; Course: 0.000000, Speed: 15.000000
+Wizzy updated; Course: 25.000000, Speed: 30.000000
+[TIME] Simulation advanced by 18.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:52:00 2011
+++++++++
+[TIME] Simulation advanced by 24.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:16:00 2011
+++++++++
+[TIME] Simulation advanced by 24.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:40:00 2011
+++++++++
+[TIME] Simulation advanced by 24.000000 minutes.
+
+SHIP SUMMARY
+[OKAY] Totoro 	(52.79 -4.25)	Speed: 15.00	Course: 0.00
+[OKAY] Wizzy 	(52.52 -6.04)	Speed: 30.00	Course: 25.00
+[OKAY] Sam 	(52.53 -5.52)	Speed: 10.00	Course: 155.00
+[OKAY] Meridian 	(52.08 -5.00)	Speed: 10.00	Course: 0.00
+[OKAY] Crasher 	(51.77 -4.49)	Speed: 10.00	Course: 90.00

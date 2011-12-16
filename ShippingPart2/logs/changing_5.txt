@@ -1,0 +1,445 @@
+Ship Simulation Log (Sam Nicholls)
+Input File Path: /dcs/dap/NAVIGATION/data/changing/changing_5.txt
+Simulation Duration: 120.000000
+Simulation Timestep: 2.000000
+--------------------------------------
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:00:00 2011
+++++++++
+Yacht01 updated; Course: 270.000000, Speed: 4.000000
+Yacht02 updated; Course: 270.000000, Speed: 6.000000
+Yacht03 updated; Course: 284.000000, Speed: 5.000000
+Yacht04 updated; Course: 284.000000, Speed: 10.000000
+Patches updated; Course: 0.000000, Speed: 0.000000
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082819, 52.408001)
+[RISK] Yacht02 and Yacht03 are at risk of collision: (-4.082819, 52.408001)
+[RISK] Yacht02 and Yacht04 are at risk of collision: (-4.080198, 52.408001)
+[ IN ] Yacht01 entered designated area: (52.408000, -4.128643)
+[ IN ] Yacht02 entered designated area: (52.408000, -4.163464)
+[ IN ] Yacht03 entered designated area: (52.417672, -4.146419)
+[ IN ] Yacht04 entered designated area: (52.426344, -4.200840)
+[ IN ] Patches entered designated area: (52.429000, -4.272000)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:02:00 2011
+++++++++
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082831, 52.408001)
+[RISK] Yacht02 and Yacht03 are at risk of collision: (-4.082831, 52.408001)
+[RISK] Yacht02 and Yacht04 are at risk of collision: (-4.080196, 52.408001)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:04:00 2011
+++++++++
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082818, 52.408001)
+[RISK] Yacht02 and Yacht03 are at risk of collision: (-4.082818, 52.408001)
+[RISK] Yacht02 and Yacht04 are at risk of collision: (-4.080196, 52.408001)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:06:00 2011
+++++++++
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082830, 52.408001)
+[RISK] Yacht02 and Yacht03 are at risk of collision: (-4.082830, 52.408001)
+[RISK] Yacht04 and Patches are at risk of collision: (-4.272000, 52.437164)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:08:00 2011
+++++++++
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082817, 52.408001)
+[RISK] Yacht02 and Yacht03 are at risk of collision: (-4.082817, 52.408001)
+[RISK] Yacht04 and Patches are at risk of collision: (-4.272000, 52.437164)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:10:00 2011
+++++++++
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082829, 52.408001)
+[RISK] Yacht02 and Yacht03 are at risk of collision: (-4.082829, 52.408001)
+[RISK] Yacht04 and Patches are at risk of collision: (-4.272000, 52.437164)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:12:00 2011
+++++++++
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082816, 52.408001)
+[RISK] Yacht02 and Yacht03 are at risk of collision: (-4.082816, 52.408001)
+[RISK] Yacht04 and Patches are at risk of collision: (-4.272000, 52.437160)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:14:00 2011
+++++++++
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082803, 52.408001)
+[RISK] Yacht02 and Yacht03 are at risk of collision: (-4.082803, 52.408001)
+[RISK] Yacht04 and Patches are at risk of collision: (-4.272000, 52.437160)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:16:00 2011
+++++++++
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082815, 52.408001)
+[RISK] Yacht02 and Yacht03 are at risk of collision: (-4.082815, 52.408001)
+[RISK] Yacht04 and Patches are at risk of collision: (-4.272000, 52.437160)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:18:00 2011
+++++++++
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082802, 52.408001)
+[RISK] Yacht02 and Yacht03 are at risk of collision: (-4.082802, 52.408001)
+[RISK] Yacht04 and Patches are at risk of collision: (-4.272000, 52.437160)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:20:00 2011
+++++++++
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082814, 52.408001)
+[RISK] Yacht02 and Yacht03 are at risk of collision: (-4.082814, 52.408001)
+[RISK] Yacht04 and Patches are at risk of collision: (-4.272000, 52.437164)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:22:00 2011
+++++++++
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082801, 52.408001)
+[RISK] Yacht02 and Yacht03 are at risk of collision: (-4.082801, 52.408001)
+[RISK] Yacht04 and Patches are at risk of collision: (-4.272000, 52.437160)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:24:00 2011
+++++++++
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082813, 52.408001)
+[RISK] Yacht02 and Yacht03 are at risk of collision: (-4.082813, 52.408001)
+[RISK] Yacht04 and Patches are at risk of collision: (-4.272000, 52.437160)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:26:00 2011
+++++++++
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082800, 52.408001)
+[RISK] Yacht02 and Yacht03 are at risk of collision: (-4.082800, 52.408001)
+[RISK] Yacht04 and Patches are at risk of collision: (-4.272000, 52.437160)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:28:00 2011
+++++++++
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082812, 52.408001)
+[RISK] Yacht02 and Yacht03 are at risk of collision: (-4.082812, 52.408001)
+[RISK] Yacht02 and Patches are at risk of collision: (-4.272000, 52.408001)
+[RISK] Yacht04 and Patches are at risk of collision: (-4.272000, 52.437164)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:30:00 2011
+++++++++
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082799, 52.408001)
+[RISK] Yacht02 and Yacht03 are at risk of collision: (-4.082799, 52.408001)
+[RISK] Yacht02 and Patches are at risk of collision: (-4.272000, 52.408001)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:32:00 2011
+++++++++
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082787, 52.408001)
+[RISK] Yacht02 and Yacht03 are at risk of collision: (-4.082787, 52.408001)
+[RISK] Yacht02 and Patches are at risk of collision: (-4.272000, 52.408001)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:34:00 2011
+++++++++
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082798, 52.408001)
+[RISK] Yacht02 and Yacht03 are at risk of collision: (-4.082798, 52.408001)
+[RISK] Yacht02 and Patches are at risk of collision: (-4.272000, 52.408001)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:36:00 2011
+++++++++
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082785, 52.408001)
+[RISK] Yacht02 and Yacht03 are at risk of collision: (-4.082785, 52.408001)
+[RISK] Yacht02 and Patches are at risk of collision: (-4.272000, 52.408001)
+[RISK] Yacht03 and Patches are at risk of collision: (-4.272000, 52.436768)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:38:00 2011
+++++++++
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082797, 52.408001)
+[RISK] Yacht02 and Yacht03 are at risk of collision: (-4.082797, 52.408001)
+[RISK] Yacht02 and Patches are at risk of collision: (-4.272000, 52.408001)
+[RISK] Yacht03 and Patches are at risk of collision: (-4.272000, 52.436764)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:40:00 2011
+++++++++
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082784, 52.408001)
+[RISK] Yacht02 and Yacht03 are at risk of collision: (-4.082784, 52.408001)
+[RISK] Yacht02 and Patches are at risk of collision: (-4.272000, 52.408001)
+[RISK] Yacht03 and Patches are at risk of collision: (-4.272000, 52.436768)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:42:00 2011
+++++++++
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082796, 52.408001)
+[RISK] Yacht02 and Yacht03 are at risk of collision: (-4.082796, 52.408001)
+[RISK] Yacht02 and Patches are at risk of collision: (-4.272000, 52.408001)
+[RISK] Yacht03 and Patches are at risk of collision: (-4.272000, 52.436764)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:44:00 2011
+++++++++
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082783, 52.408001)
+[RISK] Yacht02 and Patches are at risk of collision: (-4.272000, 52.408001)
+[RISK] Yacht03 and Patches are at risk of collision: (-4.272000, 52.436764)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:46:00 2011
+++++++++
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082795, 52.408001)
+[RISK] Yacht02 and Patches are at risk of collision: (-4.272000, 52.408001)
+[RISK] Yacht03 and Patches are at risk of collision: (-4.272000, 52.436764)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:48:00 2011
+++++++++
+[RISK] Yacht01 and Yacht03 are at risk of collision: (-4.082782, 52.408001)
+[RISK] Yacht02 and Patches are at risk of collision: (-4.272000, 52.408001)
+[RISK] Yacht03 and Patches are at risk of collision: (-4.272000, 52.436764)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:50:00 2011
+++++++++
+[RISK] Yacht02 and Patches are at risk of collision: (-4.272000, 52.408001)
+[RISK] Yacht03 and Patches are at risk of collision: (-4.272000, 52.436768)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:52:00 2011
+++++++++
+[RISK] Yacht02 and Patches are at risk of collision: (-4.272000, 52.408001)
+[RISK] Yacht03 and Patches are at risk of collision: (-4.272000, 52.436764)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:54:00 2011
+++++++++
+[RISK] Yacht02 and Patches are at risk of collision: (-4.272000, 52.408001)
+[RISK] Yacht03 and Patches are at risk of collision: (-4.272000, 52.436764)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:56:00 2011
+++++++++
+[RISK] Yacht02 and Patches are at risk of collision: (-4.272000, 52.408001)
+[RISK] Yacht03 and Patches are at risk of collision: (-4.272000, 52.436764)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 10:58:00 2011
+++++++++
+[RISK] Yacht01 and Patches are at risk of collision: (-4.272000, 52.408001)
+[RISK] Yacht03 and Patches are at risk of collision: (-4.272000, 52.436764)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:00:00 2011
+++++++++
+[RISK] Yacht01 and Patches are at risk of collision: (-4.272000, 52.408001)
+[RISK] Yacht03 and Patches are at risk of collision: (-4.272000, 52.436768)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:02:00 2011
+++++++++
+[RISK] Yacht01 and Patches are at risk of collision: (-4.272000, 52.408001)
+[RISK] Yacht03 and Patches are at risk of collision: (-4.272000, 52.436764)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:04:00 2011
+++++++++
+[RISK] Yacht01 and Patches are at risk of collision: (-4.272000, 52.408001)
+[RISK] Yacht03 and Patches are at risk of collision: (-4.272000, 52.436764)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:06:00 2011
+++++++++
+[RISK] Yacht01 and Patches are at risk of collision: (-4.272000, 52.408001)
+[RISK] Yacht03 and Patches are at risk of collision: (-4.272000, 52.436764)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:08:00 2011
+++++++++
+[RISK] Yacht01 and Patches are at risk of collision: (-4.272000, 52.408001)
+[RISK] Yacht03 and Patches are at risk of collision: (-4.272000, 52.436764)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:10:00 2011
+++++++++
+[RISK] Yacht01 and Patches are at risk of collision: (-4.272000, 52.408001)
+[RISK] Yacht03 and Patches are at risk of collision: (-4.272000, 52.436768)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:12:00 2011
+++++++++
+[RISK] Yacht01 and Patches are at risk of collision: (-4.272000, 52.408001)
+[RISK] Yacht03 and Patches are at risk of collision: (-4.272000, 52.436764)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:14:00 2011
+++++++++
+[RISK] Yacht01 and Patches are at risk of collision: (-4.272000, 52.408001)
+[RISK] Yacht03 and Patches are at risk of collision: (-4.272000, 52.436764)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:16:00 2011
+++++++++
+[RISK] Yacht01 and Patches are at risk of collision: (-4.272000, 52.408001)
+[RISK] Yacht03 and Patches are at risk of collision: (-4.272000, 52.436768)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:18:00 2011
+++++++++
+[RISK] Yacht01 and Patches are at risk of collision: (-4.272000, 52.408001)
+[RISK] Yacht03 and Patches are at risk of collision: (-4.272000, 52.436764)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:20:00 2011
+++++++++
+[RISK] Yacht01 and Patches are at risk of collision: (-4.272000, 52.408001)
+[RISK] Yacht03 and Patches are at risk of collision: (-4.272000, 52.436768)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:22:00 2011
+++++++++
+[RISK] Yacht01 and Patches are at risk of collision: (-4.272000, 52.408001)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:24:00 2011
+++++++++
+[RISK] Yacht01 and Patches are at risk of collision: (-4.272000, 52.408001)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:26:00 2011
+++++++++
+[RISK] Yacht01 and Patches are at risk of collision: (-4.272000, 52.408001)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:28:00 2011
+++++++++
+[RISK] Yacht01 and Patches are at risk of collision: (-4.272000, 52.408001)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:30:00 2011
+++++++++
+[RISK] Yacht01 and Patches are at risk of collision: (-4.272000, 52.408001)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:32:00 2011
+++++++++
+[RISK] Yacht01 and Patches are at risk of collision: (-4.272000, 52.408001)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:34:00 2011
+++++++++
+[RISK] Yacht01 and Patches are at risk of collision: (-4.272000, 52.408001)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:36:00 2011
+++++++++
+[RISK] Yacht01 and Patches are at risk of collision: (-4.272000, 52.408001)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:38:00 2011
+++++++++
+[RISK] Yacht01 and Patches are at risk of collision: (-4.272000, 52.408001)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:40:00 2011
+++++++++
+[RISK] Yacht01 and Patches are at risk of collision: (-4.272000, 52.408001)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:42:00 2011
+++++++++
+[RISK] Yacht01 and Patches are at risk of collision: (-4.272000, 52.408001)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:44:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:46:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:48:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:50:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:52:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:54:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:56:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Sat Dec 17 11:58:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+SHIP SUMMARY
+[OKAY] Yacht01 	(52.41 -4.34)	Speed: 4.00	Course: 270.00
+[OKAY] Yacht02 	(52.41 -4.49)	Speed: 6.00	Course: 270.00
+[OKAY] Yacht03 	(52.46 -4.41)	Speed: 5.00	Course: 284.00
+[OKAY] Yacht04 	(52.51 -4.72)	Speed: 10.00	Course: 284.00
+[OKAY] Patches 	(52.43 -4.27)	Speed: 0.00	Course: 0.00

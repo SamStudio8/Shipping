@@ -1,0 +1,24 @@
+"/usr/sfw/bin/gmake" -f nbproject/Makefile-Debug.mk QMAKE= SUBPROJECTS= .clean-conf
+gmake[1]: Entering directory `/berw/homes1/m/msn/NetBeansProjects/ShippingPart1'
+rm -f -r build/Debug
+rm -f dist/Debug/GNU-Solaris-Sparc/shippingpart1
+gmake[1]: Leaving directory `/berw/homes1/m/msn/NetBeansProjects/ShippingPart1'
+
+CLEAN SUCCESSFUL (total time: 385ms)
+"/usr/sfw/bin/gmake" -f nbproject/Makefile-Debug.mk QMAKE= SUBPROJECTS= .build-conf
+gmake[1]: Entering directory `/berw/homes1/m/msn/NetBeansProjects/ShippingPart1'
+"/usr/sfw/bin/gmake"  -f nbproject/Makefile-Debug.mk dist/Debug/GNU-Solaris-Sparc/shippingpart1
+gmake[2]: Entering directory `/berw/homes1/m/msn/NetBeansProjects/ShippingPart1'
+mkdir -p build/Debug/GNU-Solaris-Sparc/_ext/967859140
+rm -f build/Debug/GNU-Solaris-Sparc/_ext/967859140/ship.o.d
+gcc --std=c99   -c -g -MMD -MP -MF build/Debug/GNU-Solaris-Sparc/_ext/967859140/ship.o.d -o build/Debug/GNU-Solaris-Sparc/_ext/967859140/ship.o /berw/homes1/m/msn/NetBeansProjects/ShippingPart1/ship.c
+mkdir -p build/Debug/GNU-Solaris-Sparc
+rm -f build/Debug/GNU-Solaris-Sparc/main.o.d
+gcc --std=c99   -c -g -MMD -MP -MF build/Debug/GNU-Solaris-Sparc/main.o.d -o build/Debug/GNU-Solaris-Sparc/main.o main.c
+mkdir -p dist/Debug/GNU-Solaris-Sparc
+gcc --std=c99    -o dist/Debug/GNU-Solaris-Sparc/shippingpart1 build/Debug/GNU-Solaris-Sparc/_ext/967859140/ship.o build/Debug/GNU-Solaris-Sparc/main.o /dcs/dap/NAVIGATION/libnavigation.a -lm 
+gmake[2]: Leaving directory `/berw/homes1/m/msn/NetBeansProjects/ShippingPart1'
+gmake[1]: Leaving directory `/berw/homes1/m/msn/NetBeansProjects/ShippingPart1'
+
+BUILD SUCCESSFUL (total time: 1s)
+ 

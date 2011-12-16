@@ -1,0 +1,326 @@
+Ship Simulation Log (Sam Nicholls)
+Input File Path: /dcs/dap/NAVIGATION/data/changing/changing_3.txt
+Simulation Duration: 120.000000
+Simulation Timestep: 2.000000
+--------------------------------------
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:00:00 2011
+++++++++
+EI001 updated; Course: 198.000000, Speed: 15.000000
+EI002 updated; Course: 53.000000, Speed: 10.000000
+EI003 updated; Course: 53.000000, Speed: 10.000000
+EI004 updated; Course: 53.000000, Speed: 15.000000
+EI005 updated; Course: 108.000000, Speed: 15.000000
+[RISK] EI001 and EI005 are at risk of collision: (-6.056520, 52.286739)
+[ IN ] EI001 entered designated area: (52.259075, -6.071208)
+[ IN ] EI002 entered designated area: (51.936343, -6.400804)
+[ IN ] EI003 entered designated area: (52.036343, -6.192788)
+[ IN ] EI004 entered designated area: (52.113015, -6.022164)
+[ IN ] EI005 entered designated area: (52.289425, -6.070042)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:02:00 2011
+++++++++
+[RISK] EI001 and EI005 are at risk of collision: (-6.056523, 52.286736)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:04:00 2011
+++++++++
+EI004 updated; Course: 18.000000, Speed: 15.000000
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:06:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:08:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:10:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:12:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:14:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:16:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:18:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:20:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:22:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:24:00 2011
+++++++++
+EI001 updated; Course: 235.000000, Speed: 15.000000
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:26:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:28:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:30:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:32:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:34:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:36:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:38:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:40:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:42:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:44:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:46:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:48:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:50:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:52:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:54:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:56:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 10:58:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:00:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:02:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:04:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:06:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:08:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:10:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:12:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:14:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:16:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:18:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:20:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:22:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:24:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:26:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:28:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:30:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:32:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:34:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:36:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:38:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:40:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:42:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:44:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:46:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:48:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:50:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:52:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:54:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:56:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Thu Dec 15 11:58:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+SHIP SUMMARY
+[OKAY] EI001 	(51.94 -6.65)	Speed: 15.00	Course: 235.00
+[OKAY] EI002 	(52.13 -5.98)	Speed: 10.00	Course: 53.00
+[OKAY] EI003 	(52.23 -5.77)	Speed: 10.00	Course: 53.00
+[OKAY] EI004 	(52.58 -5.77)	Speed: 15.00	Course: 18.00
+[OKAY] EI005 	(52.14 -5.31)	Speed: 15.00	Course: 108.00

@@ -1,0 +1,319 @@
+Ship Simulation Log (Sam Nicholls)
+Input File Path: /dcs/dap/NAVIGATION/data/fixed/fixed_1.txt
+Simulation Duration: 120.000000
+Simulation Timestep: 2.000000
+--------------------------------------
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:04:00 2011
+++++++++
+[ IN ] GW1927 entered designated area: (52.408000, -4.117000)
+[ IN ] GS452 entered designated area: (51.755534, -4.299218)
+[ IN ] EI597 entered designated area: (52.100000, -5.989147)
+[ IN ] EI600 entered designated area: (52.008207, -5.897650)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:06:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:08:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:10:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:12:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:14:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:16:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:18:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:20:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:22:00 2011
+++++++++
+[RISK] EI597 and EI600 are at risk of collision: (-5.871331, 52.099998)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:24:00 2011
+++++++++
+[RISK] EI597 and EI600 are at risk of collision: (-5.871331, 52.099998)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:26:00 2011
+++++++++
+[RISK] EI597 and EI600 are at risk of collision: (-5.871332, 52.099998)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:28:00 2011
+++++++++
+[SUNK] EI597 and EI600 collided and sunk: (52.100000, -5.869767)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:30:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:32:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:34:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:36:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:38:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:40:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:42:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:44:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:46:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:48:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:50:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:52:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:54:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:56:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 13:58:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:00:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:02:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:04:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:06:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:08:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:10:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:12:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:14:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:16:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:18:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:20:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:22:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:24:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:26:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:28:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:30:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:32:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:34:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:36:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:38:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:40:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:42:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:44:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:46:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:48:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:50:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:52:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:54:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:56:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 14:58:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 15:00:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Tue Dec 13 15:02:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+SHIP SUMMARY
+[OKAY] GW1927 	(52.41 -4.12)	Speed: 0.00	Course: 1.00
+[OKAY] GS452 	(52.08 -4.25)	Speed: 10.00	Course: 5.00
+[SUNK] EI597 	(52.10 -5.35)
+[SUNK] EI600 	(52.49 -5.76)

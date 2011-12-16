@@ -1,0 +1,337 @@
+Ship Simulation Log (Sam Nicholls)
+Input File Path: /dcs/dap/NAVIGATION/data/changing/changing_2.txt
+Simulation Duration: 120.000000
+Simulation Timestep: 2.000000
+--------------------------------------
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:00:00 2011
+++++++++
+Tanker01 updated; Course: 196.000000, Speed: 10.000000
+Tanker02 updated; Course: 16.000000, Speed: 15.000000
+Tanker03 updated; Course: 16.000000, Speed: 10.000000
+Tanker04 updated; Course: 196.000000, Speed: 20.000000
+Tanker05 updated; Course: 90.000000, Speed: 7.000000
+Tanker06 updated; Course: 280.000000, Speed: 5.000000
+[ IN ] Tanker01 entered designated area: (51.677660, -6.002470)
+[ IN ] Tanker02 entered designated area: (51.841011, -5.829283)
+[ IN ] Tanker03 entered designated area: (51.788340, -5.780525)
+[ IN ] Tanker04 entered designated area: (51.989319, -5.846975)
+[ IN ] Tanker05 entered designated area: (51.858000, -6.093703)
+[ IN ] Tanker06 entered designated area: (51.858482, -5.704429)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:02:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:04:00 2011
+++++++++
+[OUT ] Tanker01 left designated area: (51.666979, -6.007409)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:06:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:08:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:10:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:12:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:14:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:16:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:18:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:20:00 2011
+++++++++
+[RISK] Tanker03 and Tanker06 are at risk of collision: (-5.745893, 51.862999)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:22:00 2011
+++++++++
+[RISK] Tanker03 and Tanker06 are at risk of collision: (-5.745891, 51.862999)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:24:00 2011
+++++++++
+[RISK] Tanker03 and Tanker06 are at risk of collision: (-5.745891, 51.862995)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:26:00 2011
+++++++++
+[RISK] Tanker03 and Tanker06 are at risk of collision: (-5.745892, 51.862999)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:28:00 2011
+++++++++
+[RISK] Tanker03 and Tanker06 are at risk of collision: (-5.745890, 51.862999)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:30:00 2011
+++++++++
+[RISK] Tanker03 and Tanker06 are at risk of collision: (-5.745887, 51.862999)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:32:00 2011
+++++++++
+[RISK] Tanker03 and Tanker06 are at risk of collision: (-5.745891, 51.862995)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:34:00 2011
+++++++++
+[RISK] Tanker03 and Tanker06 are at risk of collision: (-5.745890, 51.862999)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:36:00 2011
+++++++++
+[RISK] Tanker03 and Tanker06 are at risk of collision: (-5.745891, 51.862999)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:38:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:40:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:42:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:44:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:46:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:48:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:50:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:52:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:54:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:56:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 17:58:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:00:00 2011
+++++++++
+Tanker05 updated; Course: 190.000000, Speed: 7.000000
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:02:00 2011
+++++++++
+[OUT ] Tanker04 left designated area: (51.658218, -6.000601)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:04:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:06:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:08:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:10:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:12:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:14:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:16:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:18:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:20:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:22:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:24:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:26:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:28:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:30:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:32:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:34:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:36:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:38:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:40:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:42:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:44:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:46:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:48:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:50:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:52:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:54:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:56:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Wed Dec 14 18:58:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+SHIP SUMMARY
+[OUT ] Tanker01 	 Other Information Unavailable.
+[OKAY] Tanker02 	(52.31 -5.61)	Speed: 15.00	Course: 16.00
+[OKAY] Tanker03 	(52.10 -5.63)	Speed: 10.00	Course: 16.00
+[OUT ] Tanker04 	 Other Information Unavailable.
+[OKAY] Tanker05 	(51.74 -5.94)	Speed: 7.00	Course: 190.00
+[OKAY] Tanker06 	(51.89 -5.97)	Speed: 5.00	Course: 280.00

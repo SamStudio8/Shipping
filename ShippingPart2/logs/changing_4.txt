@@ -1,0 +1,369 @@
+Ship Simulation Log (Sam Nicholls)
+Input File Path: /dcs/dap/NAVIGATION/data/changing/changing_4.txt
+Simulation Duration: 120.000000
+Simulation Timestep: 2.000000
+--------------------------------------
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:00:00 2011
+++++++++
+Rowing01 updated; Course: 285.000000, Speed: 5.000000
+Rowing02 updated; Course: 285.000000, Speed: 5.100000
+Rowing03 updated; Course: 285.000000, Speed: 3.000000
+Rowing04 updated; Course: 285.000000, Speed: 5.100000
+Rowing05 updated; Course: 330.000000, Speed: 5.000000
+Rowing06 updated; Course: 330.000000, Speed: 6.600000
+Cargo01 updated; Course: 206.000000, Speed: 17.000000
+Cargo02 updated; Course: 19.000000, Speed: 15.000000
+[RISK] Rowing04 and Rowing05 are at risk of collision: (-5.981674, 52.647148)
+[ IN ] Rowing01 entered designated area: (52.592719, -5.671417)
+[ IN ] Rowing02 entered designated area: (52.608733, -5.762507)
+[ IN ] Rowing03 entered designated area: (52.625431, -5.844652)
+[ IN ] Rowing04 entered designated area: (52.642733, -5.954510)
+[ IN ] Rowing05 entered designated area: (52.660406, -5.994290)
+[ IN ] Rowing06 entered designated area: (52.699175, -6.045025)
+[ IN ] Cargo01 entered designated area: (52.724511, -5.689837)
+[ IN ] Cargo02 entered designated area: (52.499879, -5.787544)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:02:00 2011
+++++++++
+[RISK] Rowing04 and Rowing05 are at risk of collision: (-5.981672, 52.647148)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:04:00 2011
+++++++++
+[RISK] Rowing04 and Rowing05 are at risk of collision: (-5.981668, 52.647148)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:06:00 2011
+++++++++
+[RISK] Rowing04 and Rowing05 are at risk of collision: (-5.981670, 52.647152)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:08:00 2011
+++++++++
+[RISK] Rowing04 and Rowing05 are at risk of collision: (-5.981668, 52.647148)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:10:00 2011
+++++++++
+[RISK] Rowing04 and Rowing05 are at risk of collision: (-5.981665, 52.647148)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:12:00 2011
+++++++++
+[RISK] Rowing04 and Rowing05 are at risk of collision: (-5.981667, 52.647152)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:14:00 2011
+++++++++
+[RISK] Rowing04 and Rowing05 are at risk of collision: (-5.981665, 52.647148)
+[TIME] Simulation advanced by 1.500000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:15:30 2011
+++++++++
+Rowing04 updated; Course: 330.000000, Speed: 5.200000
+[TIME] Simulation advanced by 0.500000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:16:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:18:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:20:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:22:00 2011
+++++++++
+[RISK] Rowing01 and Cargo02 are at risk of collision: (-5.729615, 52.602192)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:24:00 2011
+++++++++
+[RISK] Rowing01 and Cargo02 are at risk of collision: (-5.729611, 52.602192)
+[RISK] Rowing02 and Cargo01 are at risk of collision: (-5.780598, 52.611675)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:26:00 2011
+++++++++
+[RISK] Rowing01 and Cargo02 are at risk of collision: (-5.729612, 52.602192)
+[RISK] Rowing02 and Cargo01 are at risk of collision: (-5.780594, 52.611679)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:28:00 2011
+++++++++
+[RISK] Rowing01 and Cargo01 are at risk of collision: (-5.781440, 52.610626)
+[SUNK] Rowing01 and Cargo02 collided and sunk: (52.602065, -5.728841)
+[RISK] Rowing02 and Cargo01 are at risk of collision: (-5.780595, 52.611679)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:30:00 2011
+++++++++
+[RISK] Rowing02 and Cargo01 are at risk of collision: (-5.780596, 52.611679)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:32:00 2011
+++++++++
+[RISK] Rowing02 and Cargo01 are at risk of collision: (-5.780597, 52.611679)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:34:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:36:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:38:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:40:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:42:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:44:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:46:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:48:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:50:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:52:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:54:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:56:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 10:58:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:00:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:02:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:04:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:06:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:08:00 2011
+++++++++
+Rowing06 updated; Course: 0.000000, Speed: 0.000000
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:10:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:12:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:14:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:16:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:18:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:20:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:22:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:24:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:26:00 2011
+++++++++
+[OUT ] Cargo02 left designated area: (52.838690, -5.595180)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:28:00 2011
+++++++++
+[SUNK] Rowing02 and Rowing03 collided and sunk: (52.640266, -5.956368)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:30:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:32:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:34:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:36:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:38:00 2011
+++++++++
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:40:00 2011
+++++++++
+Rowing02 updated; Course: 330.000000, Speed: 5.500000
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:42:00 2011
+++++++++
+[RISK] Rowing05 and Rowing06 are at risk of collision: (-6.144977, 52.818443)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:44:00 2011
+++++++++
+[RISK] Rowing05 and Rowing06 are at risk of collision: (-6.144977, 52.818443)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:46:00 2011
+++++++++
+[RISK] Rowing05 and Rowing06 are at risk of collision: (-6.144977, 52.818439)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:48:00 2011
+++++++++
+[RISK] Rowing05 and Rowing06 are at risk of collision: (-6.144977, 52.818436)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:50:00 2011
+++++++++
+Rowing03 updated; Course: 330.000000, Speed: 3.000000
+[RISK] Rowing05 and Rowing06 are at risk of collision: (-6.144977, 52.818436)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:52:00 2011
+++++++++
+[RISK] Rowing05 and Rowing06 are at risk of collision: (-6.144977, 52.818436)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:54:00 2011
+++++++++
+[RISK] Rowing05 and Rowing06 are at risk of collision: (-6.144977, 52.818432)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:56:00 2011
+++++++++
+[RISK] Rowing05 and Rowing06 are at risk of collision: (-6.144977, 52.818432)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+++++++++
+SIMULATION TIME: Fri Dec 16 11:58:00 2011
+++++++++
+[RISK] Rowing05 and Rowing06 are at risk of collision: (-6.144977, 52.818432)
+[TIME] Simulation advanced by 2.000000 minutes.
+
+SHIP SUMMARY
+[SUNK] Rowing01 	(52.64 -5.93)
+[SUNK] Rowing02 	(52.67 -6.01)
+[SUNK] Rowing03 	(52.66 -5.99)
+[OKAY] Rowing04 	(52.78 -6.11)	Speed: 5.20	Course: 330.00
+[OKAY] Rowing05 	(52.80 -6.13)	Speed: 5.00	Course: 330.00
+[OKAY] Rowing06 	(52.80 -6.14)	Speed: 0.00	Course: 0.00
+[OKAY] Cargo01 	(52.22 -6.09)	Speed: 17.00	Course: 206.00
+[SUNK] Cargo02 	(52.96 -5.52)
